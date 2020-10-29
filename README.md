@@ -6,4 +6,3 @@ Many modules, such as Paramiko, have multiple pre-requisites. Some of those pre-
 
 You're smart, you can figure out the minor details. My goal here was to save somebody the time of reading through all the pre-requisites for modules that I used. 
 
-Sure, you can use virtualenv. But whats the fun in that ;(
